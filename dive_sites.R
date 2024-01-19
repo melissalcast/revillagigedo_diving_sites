@@ -3,7 +3,6 @@ library(sf)
 library(patchwork)
 library(ggthemes)
 library(rnaturalearth)
-library(RColorBrewer)
 library(ggspatial)
 library(ggrepel)
 
